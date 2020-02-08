@@ -1,0 +1,459 @@
+/* ========== Text Styles ========== */
+hr { color: #000000}
+.main-content, .main-content table span.rvts0 /* Normal text */
+{
+ font-size: 10pt;
+ font-family: 'Arial', 'Helvetica', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1 /* Heading */
+{
+ font-weight: bold;
+ color: #0000ff;
+}
+span.rvts2 /* Subheading */
+{
+ font-weight: bold;
+ color: #000080;
+}
+span.rvts3 /* Keywords */
+{
+ font-style: italic;
+ color: #800000;
+}
+a.rvts4, span.rvts4 /* Jump 1 */
+{
+ color: #008000;
+ text-decoration: underline;
+}
+a.rvts5, span.rvts5 /* Jump 2 */
+{
+ color: #008000;
+ text-decoration: underline;
+}
+span.rvts6
+{
+}
+span.rvts7
+{
+ font-weight: bold;
+ color: #0000ff;
+}
+span.rvts8
+{
+ font-weight: bold;
+ color: #000080;
+}
+span.rvts9
+{
+ font-style: italic;
+ color: #800000;
+}
+a.rvts10, span.rvts10
+{
+ color: #008000;
+ text-decoration: underline;
+}
+span.rvts11
+{
+ font-size: 55pt;
+ font-family: 'pt bold heading';
+ color: #000000;
+}
+span.rvts12
+{
+ font-size: 20pt;
+ font-family: 'pt bold heading';
+ color: #000000;
+}
+span.rvts13
+{
+ font-size: 20pt;
+ font-family: 'pt bold heading';
+ color: #800000;
+}
+span.rvts14
+{
+ font-size: 16pt;
+ font-family: 'pt bold heading';
+ color: #000000;
+}
+span.rvts15
+{
+ font-size: 12pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #000000;
+}
+span.rvts16
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #000000;
+}
+span.rvts17 /* Font Style */
+{
+ font-family: 'Tahoma', 'Geneva', sans-serif;
+ font-style: italic;
+ color: #c0c0c0;
+}
+a.rvts18, span.rvts18 /* Font Style */
+{
+ font-family: 'Tahoma', 'Geneva', sans-serif;
+ font-style: italic;
+ color: #6666ff;
+ text-decoration: underline;
+}
+span.rvts19
+{
+ font-size: 27pt;
+ font-family: 'kfgqpc hafs uthmanic script';
+ color: #000000;
+}
+span.rvts20
+{
+ font-size: 16pt;
+ font-family: 'kfgqpc hafs uthmanic script';
+ color: #000000;
+}
+span.rvts21
+{
+ font-size: 19pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #000000;
+}
+span.rvts22
+{
+ font-size: 19pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #3300ff;
+ text-decoration: underline;
+}
+span.rvts23
+{
+ font-size: 19pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-weight: bold;
+ color: #808080;
+}
+span.rvts24
+{
+ font-size: 19pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #993300;
+}
+span.rvts25
+{
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #993300;
+}
+a.rvts26, span.rvts26
+{
+ font-size: 1pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #0000ff;
+ text-decoration: underline;
+}
+span.rvts27
+{
+ font-size: 19pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #ff0000;
+}
+span.rvts28
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: ;
+}
+span.rvts29
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-weight: bold;
+ color: #7f0000;
+}
+span.rvts30
+{
+ font-size: 26pt;
+ font-family: 'PT Bold Heading';
+ color: #7f0000;
+}
+span.rvts31
+{
+ font-size: 26pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-weight: bold;
+ color: #000000;
+}
+span.rvts32
+{
+ font-size: 24pt;
+ font-family: 'kfgqpc hafs uthmanic script';
+ color: #000000;
+}
+span.rvts33
+{
+ font-size: 26pt;
+ font-family: 'kfgqpc hafs uthmanic script';
+ color: #000000;
+}
+span.rvts34
+{
+ font-size: 22pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #3300ff;
+ text-decoration: underline;
+}
+span.rvts35
+{
+ font-size: 22pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #000000;
+}
+span.rvts36
+{
+ font-size: 22pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #993300;
+}
+span.rvts37
+{
+ font-size: 18pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #993300;
+}
+span.rvts38
+{
+ font-size: 24pt;
+ font-family: 'kfgqpc hafs uthmanic script';
+ color: #000000;
+}
+span.rvts39
+{
+ font-size: 22pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #ff0000;
+}
+span.rvts40
+{
+ font-size: 22pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-weight: bold;
+ color: #808080;
+}
+span.rvts41
+{
+ font-size: 20pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #000000;
+}
+span.rvts42
+{
+ font-size: 22pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: italic;
+ font-weight: bold;
+ color: #009900;
+ text-decoration: underline;
+}
+span.rvts43
+{
+ font-size: 26pt;
+ font-family: 'kfgqpc hafs uthmanic script';
+ font-weight: bold;
+ color: #7f0000;
+}
+span.rvts44
+{
+ font-size: 26pt;
+ font-family: 'batang';
+ font-weight: bold;
+ color: #7f0000;
+}
+span.rvts45
+{
+ font-size: 26pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-weight: bold;
+ color: #7f0000;
+}
+span.rvts46
+{
+ font-size: 19pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-style: italic;
+ font-weight: bold;
+ color: #009900;
+ text-decoration: underline;
+}
+span.rvts47
+{
+ font-size: 19pt;
+ font-family: 'batang';
+ font-weight: bold;
+ color: #7f0000;
+}
+span.rvts48
+{
+ font-size: 19pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-weight: bold;
+ color: #7f0000;
+}
+span.rvts49
+{
+ font-size: 33pt;
+ font-family: 'kfgqpc hafs uthmanic script';
+ color: #7f0000;
+}
+span.rvts50
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #000000;
+}
+span.rvts51
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-weight: bold;
+ color: #808080;
+}
+span.rvts52
+{
+ font-size: 13pt;
+ font-family: 'batang';
+ color: #993300;
+}
+span.rvts53
+{
+ font-family: 'batang';
+ color: #993300;
+}
+span.rvts54
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #3300ff;
+ text-decoration: underline;
+}
+span.rvts55
+{
+ font-size: 14pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #ff0000;
+}
+span.rvts56
+{
+ font-size: 13pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ color: #993300;
+}
+span.rvts57
+{
+ font-size: 13pt;
+ font-family: 'simsun';
+ color: #993300;
+}
+span.rvts58
+{
+ font-family: 'simsun';
+ color: #993300;
+}
+span.rvts59
+{
+ font-size: 13pt;
+ font-family: 'batang';
+ font-weight: bold;
+ color: #7f0000;
+}
+span.rvts60
+{
+ font-size: 13pt;
+ font-family: 'Times New Roman', 'Times', serif;
+ font-weight: bold;
+ color: #7f0000;
+}
+span.rvts61
+{
+ font-size: 25pt;
+ font-family: 'kfgqpc hafs uthmanic script';
+ font-weight: bold;
+ color: #7f0000;
+}
+/* ========== Para Styles ========== */
+p,ul,ol /* Paragraph Style */
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1 /* Centered */
+{
+ text-align: center;
+}
+.rvps2
+{
+}
+.rvps3
+{
+ text-align: center;
+}
+.rvps4
+{
+ text-align: right;
+}
+.rvps5
+{
+ text-align: justify;
+ text-justify: inter-word;
+ text-align-last: auto;
+}
+.rvps6 /* Paragraph Style */
+{
+ text-align: center;
+ margin: 10px 0px 10px 0px;
+}
+.rvps7
+{
+ text-align: right;
+ background: #fdf9f2;
+}
+.rvps8
+{
+ text-align: center;
+ border-color: #808000;
+ border-style: solid;
+ border-width: 1px;
+ background: #fdf9f2;
+ margin: 3px 3px 3px 3px;
+}
+.rvps9
+{
+ margin: 7px 0px 7px 0px;
+}
+.rvps10
+{
+ text-align: center;
+ margin: 7px 0px 7px 0px;
+}
+.rvps11
+{
+ text-align: center;
+ border-color: #808000;
+ border-style: solid;
+ border-width: 1px;
+ background: #fbf3e6;
+ margin: 3px 3px 3px 3px;
+}
+.rvps12
+{
+ text-align: center;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 16px 0px 4px 0px;
+}
